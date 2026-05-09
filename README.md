@@ -26,7 +26,7 @@
 
 | Project | Description | Tools |
 |--------|-------------|-------|
-| [Material Selection App](https://github.com/alimo2004/material-selection-app) | MATLAB app that ranks materials for automotive rims from a CSV database | MATLAB App Designer, CSV |
+| [Material Selection App](https://github.com/alimo2004-creator/MATLAB-app-designer-material-selection-app) | MATLAB app that ranks materials for automotive rims from a CSV database | MATLAB App Designer, CSV |
 | [Aluminium Composite Study](https://github.com/alimo2004/aluminium-composite-study) | Increased aluminium flexural strength by 150% via heat treatment + honeycomb composite | SolidWorks, AutoCAD |
 | [Manufacturing CAD Project](https://github.com/alimo2004/manufacturing-cad-project) | Full machining workflow from raw stock to finished part with engineering drawings | SolidWorks, AutoCAD |
 | [Reverse Engineering Teardown](https://github.com/alimo2004/reverse-engineering-teardown) | Disassembly and component analysis of household appliances | SolidWorks, MS Word |
