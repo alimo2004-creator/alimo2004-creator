@@ -1,16 +1,61 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Ali Mohamed Ahmed 👋</h1>
 
-<!--
-**alimo2004-creator/alimo2004-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Mechatronics & Robotics Engineering Student</b> · Ain Shams University, Cairo 🇪🇬<br>
+  Passionate about CAD design, industrial automation, and building things that actually work.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 What I work with
+
+<p>
+  <img src="https://img.shields.io/badge/SolidWorks-FF0000?style=flat-square&logo=dassaultsystemes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AutoCAD-E51937?style=flat-square&logo=autodesk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PLC%20%2F%20Ladder%20Logic-003087?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Verilog-FF6B35?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=flat-square"/>
+</p>
+
+---
+
+### 🚀 Projects
+
+| Project | Description | Tools |
+|--------|-------------|-------|
+| [Material Selection App](https://github.com/alimo2004/material-selection-app) | MATLAB app that ranks materials for automotive rims from a CSV database | MATLAB App Designer, CSV |
+| [Aluminium Composite Study](https://github.com/alimo2004/aluminium-composite-study) | Increased aluminium flexural strength by 150% via heat treatment + honeycomb composite | SolidWorks, AutoCAD |
+| [Manufacturing CAD Project](https://github.com/alimo2004/manufacturing-cad-project) | Full machining workflow from raw stock to finished part with engineering drawings | SolidWorks, AutoCAD |
+| [Reverse Engineering Teardown](https://github.com/alimo2004/reverse-engineering-teardown) | Disassembly and component analysis of household appliances | SolidWorks, MS Word |
+
+---
+
+### 📜 Certifications
+
+- 🛡️ Occupational Health & Safety — Orascom (OSHA-aligned)
+- ⚡ IEEE Industrial Automation & Control — **1st place, 98.2%**
+- 📋 Project Management — INJAZ Egypt / PMI
+- 🤖 AI Programme — INJAZ Egypt / Google
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alimo2004&show_icons=true&theme=default&hide_border=true&count_private=true" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alimo2004&layout=compact&hide_border=true&theme=default" height="140"/>
+</p>
+
+---
+
+### 📫 Connect with me
+
+<p>
+  <a href="https://linkedin.com/in/ali-mohamed-ahmed-b14469265"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ali.m.ahmed.eng@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+</p>
+
+> *"Sophomore at Ain Shams University — currently building my skills in embedded systems and industrial automation, one project at a time."*
