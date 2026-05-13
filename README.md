@@ -39,6 +39,7 @@
 - ⚡ IEEE Industrial Automation & Control — **1st place, 98.2%**
 - 📋 Project Management — INJAZ Egypt / PMI
 - 🤖 AI Programme — INJAZ Egypt / Google
+- 🎖️ CSWA — Certified SolidWorks Associate (Dassault Systèmes)
 
 ---
 
