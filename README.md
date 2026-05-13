@@ -27,7 +27,7 @@
 | Project | Description | Tools |
 |--------|-------------|-------|
 | [Material Selection App](https://github.com/alimo2004-creator/MATLAB-app-designer-material-selection-app) | MATLAB app that ranks materials for automotive rims from a CSV database | MATLAB App Designer, CSV |
-| [Aluminium Composite Study]([https://github.com/alimo2004/aluminium-composite-study](https://github.com/alimo2004-creator/Aluminium-Composite-Study)) | Increased aluminium flexural strength by 150% via heat treatment + honeycomb composite | SolidWorks, AutoCAD |
+| [Aluminium Composite Study](https://github.com/alimo2004-creator/Aluminium-Composite-Study) | Increased aluminium flexural strength by 150% via heat treatment + honeycomb composite | SolidWorks, AutoCAD |
 | [Manufacturing CAD Project](https://github.com/alimo2004/manufacturing-cad-project) | Full machining workflow from raw stock to finished part with engineering drawings | SolidWorks, AutoCAD |
 | [Reverse Engineering Teardown](https://github.com/alimo2004/reverse-engineering-teardown) | Disassembly and component analysis of household appliances | SolidWorks, MS Word |
 | [robot arm calculator](https://github.com/alimo2004-creator/Robot_Arm_Application_Calculator) | optimizes the best combo of materials when you choose the material and dimensions | C++,CodeBlocks,MS VS |
