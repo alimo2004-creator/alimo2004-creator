@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/PLC%20%2F%20Ladder%20Logic-003087?style=flat-square"/>
   <img src="https://img.shields.io/badge/Verilog-FF6B35?style=flat-square"/>
   <img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Ansys-F6B221?style=flat&logo=ansys&logoColor=black" alt="Ansys" />
 </p>
 
 ---
