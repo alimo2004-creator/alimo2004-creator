@@ -12,6 +12,7 @@
 <p>
   <img src="https://img.shields.io/badge/SolidWorks-FF0000?style=flat-square&logo=dassaultsystemes&logoColor=white"/>
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Simulink-0076A8?style=flat&logo=mathworks&logoColor=white" alt="Simulink" />
   <img src="https://img.shields.io/badge/AutoCAD-E51937?style=flat-square&logo=autodesk&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -19,6 +20,7 @@
   <img src="https://img.shields.io/badge/Verilog-FF6B35?style=flat-square"/>
   <img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=flat-square"/>
   <img src="https://img.shields.io/badge/Ansys-F6B221?style=flat&logo=ansys&logoColor=black" alt="Ansys" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white" alt="Google Gemini" />
 </p>
 
 ---
