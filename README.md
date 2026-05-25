@@ -34,6 +34,7 @@
 | [Manufacturing  Project](https://github.com/alimo2004-creator/Manufacturing-Project) | Full machining workflow from raw stock to finished part with engineering drawings | SolidWorks, AutoCAD , elgoo slicer, inventor |
 | [Reverse Engineering Teardown](https://github.com/alimo2004/reverse-engineering-teardown) | Disassembly and component analysis of household appliances | SolidWorks, MS Word |
 | [robot arm calculator](https://github.com/alimo2004-creator/Robot_Arm_Application_Calculator) | optimizes the best combo of materials when you choose the material and dimensions | C++,CodeBlocks,MS VS |
+| [Offset Crank-Slider Mechanism](https://github.com/alimo2004-creator/Offset-Crank-Slider-Mechanism) | Kinematic analysis, CAD assembly, and physical prototyping of an offset 5-link mechanism | SolidWorks, SAM 7.0.97 |
 ---
 
 ### 📜 Certifications
