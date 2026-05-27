@@ -39,9 +39,12 @@ h1 align="center">Hi, I'm Ali Mohamed Ahmed 👋</h1>
 
 ---
 
-###
-#Collections & extracurricular
+### Collections & extracurricular
+
+
  |🔌 Collection 1: CADe SIMU - Electrical Control Schematics  |[Classic control mini projects (https://github.com/alimo2004-creator/classic-control-industrial-automation)]
+
+ 
 ---
 ### 📜 Certifications
 
