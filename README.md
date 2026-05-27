@@ -39,12 +39,37 @@
 
 ---
 
-### Collections & extracurricular
+### 🎓 Smaller Projects & Additional Work 
 
 
  |🔌 Collection 1: CADe SIMU - Electrical Control Schematics  |[Classic control mini projects (https://github.com/alimo2004-creator/classic-control-industrial-automation)]
-
  
+---
+
+ ### extracurricular
+
+ ### Languages
+- 🇸🇦 **Arabic:** Native proficiency
+- 🇬🇧 **English:** Professional working proficiency
+- 🇫🇷 **French:** Elementary (A2 level)
+
+ ### Volunteer Work
+- **Basma Volunteering Organization** (2026-Present)
+  - Educational support for underprivileged children
+  - Hands-on learning activities
+  - Community engagement
+ 
+  - ### Academic Recognition
+- **3rd Place:** Genius Competition (Ain Shams University)
+- **Frequent Team Spokesperson:** Elected by peers for presentations
+- **Active Participant:** Academic competitions and challenges
+
+  ### Leadership & Teamwork
+- **Team Captain:** El Mokaweloon Football Club (2021-2023)
+  - Led 15+ player team
+  - Training schedule management
+  - Tactical planning and communication
+  - Conflict resolution
 ---
 ### 📜 Certifications
 
