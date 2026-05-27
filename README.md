@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ali Mohamed Ahmed 👋</h1>
+<img width="1366" height="401" alt="image" src="https://github.com/user-attachments/assets/aa628e9d-5424-4d24-a9f7-26b3900f25ff" /><h1 align="center">Hi, I'm Ali Mohamed Ahmed 👋</h1>
 
 <p align="center">
   <b>Mechatronics & Robotics Engineering Student</b> · Ain Shams University, Cairo 🇪🇬<br>
@@ -35,6 +35,7 @@
 | [Reverse Engineering Teardown](https://github.com/alimo2004/reverse-engineering-teardown) | Disassembly and component analysis of household appliances | SolidWorks, MS Word |
 | [robot arm calculator](https://github.com/alimo2004-creator/Robot_Arm_Application_Calculator) | optimizes the best combo of materials when you choose the material and dimensions | C++,CodeBlocks,MS VS |
 | [Offset Crank-Slider Mechanism](https://github.com/alimo2004-creator/Offset-Crank-Slider-Kinematic-Analysis-Physical-Prototype) | Kinematic analysis, CAD assembly, and physical prototyping of an offset 5-link mechanism | SolidWorks, SAM 7.0.97,Excel,Word |
+| [PCB designing project](https://github.com/alimo2004-creator/PCB__designing-Arduino-nano) | Designed a high-reliability development board featuring an industrial FTDI USB-to-UART bridge, dual-power auto-selection, and an EMI-optimized layout. | Altium Designer
 ---
 
 ### 📜 Certifications
