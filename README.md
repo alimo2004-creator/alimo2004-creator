@@ -42,7 +42,7 @@
 ### 🎓 Smaller Projects & Additional Work 
 
 
- |🔌 Collection 1: CADe SIMU - Electrical Control Schematics  |[Classic control mini projects (https://github.com/alimo2004-creator/classic-control-industrial-automation)]
+ |🔌 Collection 1: CADe SIMU - Electrical Control Schematics  |[Classic control mini projects](https://github.com/alimo2004-creator/classic-control-industrial-automation)
  
 ---
 
