@@ -37,7 +37,7 @@
 | [Offset Crank-Slider Mechanism](https://github.com/alimo2004-creator/Offset-Crank-Slider-Kinematic-Analysis-Physical-Prototype) | Kinematic analysis, CAD assembly, and physical prototyping of an offset 5-link mechanism | SolidWorks, SAM 7.0.97,Excel,Word |
 | [PCB designing project](https://github.com/alimo2004-creator/PCB__designing-Arduino-nano) | Designed a high-reliability development board featuring an industrial FTDI USB-to-UART bridge, dual-power auto-selection, and an EMI-optimized layout. | Altium Designer
 | [Verilog project](https://github.com/alimo2004-creator/ITIBQS-Intelligent-Time-Informed-Bank-Queue-System)|ITIBQS-Intelligent-Time-Informed-Bank-Queue-System| ModelSIM
-
+| [Fluid Mechanics — Rocket Simulation](https://github.com/alimo2004-creator/Fluid-mechanics-project---a-rocket-simulation) | Full rocket propulsion simulation covering pump H–Q curves, hydrostatic forces, nozzle design, and cold-flow analysis | MATLAB, SolidWorks, Excel |
 
 ---
 
