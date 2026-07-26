@@ -77,6 +77,10 @@
   - Training schedule management
   - Tactical planning and communication
   - Conflict resolution
+ 
+  ### Fusion 360 Designathon
+  - competed in a team of 3 to make a design in a 10 hours competition
+  - trained by professionals from AutoDesk it self and tought us everything for the comoetitions
 ---
 ### 📜 Certifications
 
@@ -84,7 +88,8 @@
 - ⚡ IEEE Industrial Automation & Control — **1st place, 98.2%**
 - 📋 Project Management — INJAZ Egypt / PMI
 - 🤖 AI Programme — INJAZ Egypt / Google
-- 🎖️ CSWA — Certified SolidWorks Associate (Dassault Systèmes)
+- 🎖️ CSWP — Certified SolidWorks Professional (Dassault Systèmes)
+- 📋 six sigma yellow belt 
 
 ---
 
