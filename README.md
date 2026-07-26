@@ -21,6 +21,9 @@
   <img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=flat-square"/>
   <img src="https://img.shields.io/badge/Ansys-F6B221?style=flat&logo=ansys&logoColor=black" alt="Ansys" />
   <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/Fusion_360-F7931E?style=flat&logo=autodesk&logoColor=white" alt="Fusion 360" />
+  <img src="https://img.shields.io/badge/Inventor-A5915F?style=flat&logo=autodesk&logoColor=white" alt="Inventor" />
+  <img src="https://img.shields.io/badge/Six_Sigma-Yellow_Belt-FFD700?style=flat&logoColor=black" alt="Six Sigma Yellow Belt" />
 </p>
 
 ---
